@@ -1,0 +1,6 @@
+subprocess
+psutil
+pyautogui
+socket
+scapy
+requests
